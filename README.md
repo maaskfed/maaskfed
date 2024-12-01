@@ -1,4 +1,4 @@
-## CAREGRID - GROUP 2
+## HEALTHGRID - GROUP 2
 
 **CAREGRID** is a ✨ _special_ ✨ project by MAASKFED because it helps in the life saving industry.
 
