@@ -1,6 +1,6 @@
 ## HEALTHGRID - GROUP 2
 
-**CAREGRID** is a ✨ _special_ ✨ project by MAASKFED because it helps in the life saving industry.
+**HEALTHGRID** is a ✨ _special_ ✨ project by MAASKFED because it helps the life saving industry to keep record and track of each patient.
 
 Here are the name of our team members:
 
